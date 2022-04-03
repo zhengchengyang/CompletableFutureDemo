@@ -1,0 +1,2 @@
+# CompletableFutureDemo
+利用CompletableFuture查询多个异步任务，统一返回结果
